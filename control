@@ -1,0 +1,9 @@
+Package: com.ihack102.snapoldstory
+Name: SnapOldStory 2
+Depends: mobilesubstrate
+Version: 1.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: iHack102
+Author: iHack102
+Section: Tweaks

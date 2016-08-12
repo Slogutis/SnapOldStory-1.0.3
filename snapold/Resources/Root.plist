@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>items</key>
+  <array>
+    <dict>
+    <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>Root</string>
+      <key>key</key>
+      <string>k1</string>
+      <key>label</key>
+      <string>Enable</string>
+</dict>
+<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>SnapOldStory by @iHack102</string>
+    </dict>
+<dict>
+ <key>cell</key>
+  <string>PSButtonCell</string>
+  <key>label</key>
+  <string>apply changes</string>
+  <key>action</key>
+  <string>apply</string>
+</dict>
+<dict>
+<key>action</key>
+<string>Twitter</string>
+<key>cell</key>
+<string>PSButtonCell</string>
+<key>default</key>
+<false/>
+<key>icon</key>
+<string>Twitter@2x.png</string>
+<key>label</key>
+<string>Follow me on twitter</string>
+    </dict>
+  </array>
+  <key>title</key>
+  <string>SnapOld</string>
+</dict>
+</plist>
